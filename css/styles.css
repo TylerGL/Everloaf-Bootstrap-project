@@ -182,8 +182,18 @@ color:#ff4c68;
 
 .copyright{
 padding:3% 15% 4%;
+text-decoration: none;
 }
 
+a:link{
+  color:black;
+}
+a:visited{
+  color:black;
+}
+a:hover{
+  color:#ff4c68;
+}
 
 /* Media Query Section */
 
